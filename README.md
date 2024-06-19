@@ -4,7 +4,7 @@
 
 #2) 프로젝트 코랩 링크:https://colab.research.google.com/drive/1c904Nf74vItGBXNJwo5N0K5wHkbHTEBA?usp=sharing
 
-#3) 깃헙 링크 : https://github.com/leenamhee7937
+#3) 깃헙 링크 : https://github.com/leenamhee7937/project10/blob/main/README.md
 
 from google.colab import files
 files.upload()
