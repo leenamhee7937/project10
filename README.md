@@ -24,7 +24,7 @@ for row in data1 :
     for i in range(1, 121) :
       d[i] = d[i] + int(row[i])
 
-for i in range(0, 120) :
+for i in range(0, 120) :   # d[0]번을 비우고 1번부터 2014년 1월 사망자 누계가 입력되어 다시 한칸씩 앞으로 옮기고 마지막 리스트값 삭제
   d[i] = d[i+1]
 del d[120]
 
